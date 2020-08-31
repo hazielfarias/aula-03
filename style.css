@@ -1,0 +1,70 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    height: 100%;
+}
+body{
+    margin: auto;
+    right: 0px;
+    margin-top: -21px;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+}
+.container{
+    height: 100%;
+    text-align: center;
+}
+#cabecalho{
+    background: url("img/ocean-water-with-swimmers.jpg");
+    background-size: cover;
+    height: 508px;
+    margin: auto;
+    padding: 20px;
+    padding-top: 20%;
+}
+.texto-branco{
+    color: white;
+    margin: auto;
+}
+#titulo{
+    font-size: 80px;
+}
+#subtitulo{
+    font-size: 30px;
+    width: 930px;
+    margin-bottom: 30px;
+}
+.button{
+    border: white solid 2px;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+.icones{
+    height: 50px;
+}
+#icon-area{
+    text-align: center;
+}
+.card-icon{
+    width: 40%;
+    margin: auto;
+}
+#titulo-area-icon{
+    font-size: 50px;
+    text-shadow: 2px 2px 5px gray;
+}
+#titulo-area-icon:hover{
+    color: blue;
+    cursor: pointer;
+}
+iframe{
+    box-shadow: 5px 5px 5px gray;
+}
